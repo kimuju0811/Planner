@@ -1,2 +1,0 @@
-# Planner
-Just my planner
